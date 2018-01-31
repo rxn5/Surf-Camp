@@ -1,3 +1,9 @@
+@font-face {
+	font-family:"edo";
+	src: url("edo.ttf");
+}
+
+
 h1 {
 color: black;
 font-size: 150px;
